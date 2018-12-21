@@ -101,14 +101,21 @@ friends: [
     {
         title: "WY",
         href: "https://twitter.com/inheader"
-    },{
+    },
+    {
         title: "简书·BY",
         href: "https://www.jianshu.com/u/5aa65863ff9d"
-    },{
+    },
+    {
         title: "Apple",
         href: "https://apple.com"
-    },{
+    },
+    {
         title: "Apple Developer",
         href: "https://developer.apple.com/"
+    },
+    {
+        title: "辰墨",
+        href: "http://lisz.vip/"
     }
 ]
