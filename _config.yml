@@ -4,7 +4,7 @@ SEOTitle: 虎虎的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: inheader@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 虎虎的博客, inheader, iOS, Apple, iPhone"
+keyword: "BY Blog, 虎虎的博客, inheader, PHP, JavaScript, Python, TypeScript"
 url: "http://inheader.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/inheader/inheader.github.io.git" # you code repository
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 34bfdf8d4d412a09d756                            #生成的clientID
+  clientSecret: 469588b62203ca6d5a3d967f3278a19d69a06f8a    #生成的clientSecret
   repo: inheader.github.io    #仓库名称
   owner: inheader    #github用户名
   admin: inheader
