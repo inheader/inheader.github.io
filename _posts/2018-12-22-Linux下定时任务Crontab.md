@@ -14,7 +14,7 @@ tags:
 
 ## 使用规则
 
-![](..\img\crontab.png)
+![](http://images.duobanzhe.com/blog/crontab.png)
 
 ## 常用命令
 
@@ -72,7 +72,7 @@ tags:
 	
 	# 晚上11点到早上7点之间，每隔一小时重启smb
 	0 23-7 * * * /etc/init.d/smb restart
-	
+
 
 ### 工具
 
