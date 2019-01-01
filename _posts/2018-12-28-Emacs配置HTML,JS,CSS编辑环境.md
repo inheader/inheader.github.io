@@ -4,7 +4,7 @@ title:      Emacs配置HTML/JS/CSS编辑环境。
 subtitle:   Emacs配置HTML/JS/CSS编辑环境。
 date:       2018-12-28
 author:     inheader
-header-img: img/post-bg-emacs.png
+header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
     - Linux
